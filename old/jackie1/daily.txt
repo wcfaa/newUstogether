@@ -1,0 +1,25 @@
+2013/9/24
+ITSC
+username
+PASSWORD 
+
+
+再加profle page
+
+log in ->itsc
+
+ header唔要色
+ grey black color
+
+ 做solugeuh
+lorraine
+er diagram
+FONT
+大圖，細圖
+
+index layout
+－header
+－slider
+－login page
+－registerpage
+-------------------------------------

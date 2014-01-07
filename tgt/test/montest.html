@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Mon Test </title>
+ <style type="text/css">
+    	html, body {
+    		height: 100%;
+    		margin: 0;
+    	}
+
+    	#wrapper {
+    		min-height: 100%;
+    	}
+    </style>
+	<script >
+	var x = 0;
+	var array = ['red','blue','green'];
+	 function testCase () {
+		if (x>3) {x=0;}
+		document.getElementById('wrapper').style.backgroundColor = array[x];
+		x++;
+		}
+
+	</script>
+</head>
+
+<body onclick="javascript:testCase()">
+	<div id="wrapper">exeryerbcetyxbertxgertbverxgvebrxbvetxbvetrgetyvr</div>
+</body>
+</html>

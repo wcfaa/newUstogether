@@ -1,0 +1,5 @@
+[31-Jul-2013 14:10:36 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '<' in /home/bobokcom/public_html/wu_TestFile/newidea/index.php on line 10
+[31-Jul-2013 14:11:01 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '<' in /home/bobokcom/public_html/wu_TestFile/newidea/index.php on line 10
+[31-Jul-2013 14:11:04 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '<' in /home/bobokcom/public_html/wu_TestFile/newidea/index.php on line 10
+[31-Jul-2013 14:11:21 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '<' in /home/bobokcom/public_html/wu_TestFile/newidea/index.php on line 10
+[31-Jul-2013 14:11:29 Asia/Hong_Kong] PHP Fatal error:  Cannot redeclare undo_magic_quotes_gpc() (previously declared in /home/bobokcom/public_html/wu_TestFile/newidea/common.php:63) in /home/bobokcom/public_html/wu_TestFile/newidea/common.php on line 63

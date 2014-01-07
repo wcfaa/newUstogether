@@ -1,0 +1,27 @@
+body{
+    background-color: #ffffff;
+}
+.menu{
+    width: 100%;
+    background-color: orangered;
+    height: 40px;
+    margin: 0,auto;
+}
+
+.main
+{
+    width: 1024px;
+    height: 1000px;
+    background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+p{}
+h1{}
+h2{}
+h3{}
+h4{}
+h5{}
+h6{}
+

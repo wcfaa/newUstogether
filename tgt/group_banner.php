@@ -1,0 +1,1 @@
+<img width=100% src='http://www.usttogether.com/tgt/images/group/ayp/aypbanner.gif'>
